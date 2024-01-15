@@ -28,6 +28,7 @@ afectează modul în care textura este percepută. Acest lucru înseamnă că um
 specularitatea pot schimba aspectul texturii în funcție de poziția și intensitate
 a surselor de lumină, precum și de proprietățile materialelor obiectului (cum ar fi reflexivitatea sau matitatea).
 Texturile vor apărea mai luminoase sau mai întunecate și pot avea reflexii speculare în funcție de aceste setări.
+
 4.2 Iluminare Dezactivată: Când iluminarea este dezactivată, texturile sunt afișate cu culorile lor originale,
 indiferent de sursa de lumină sau de poziția acesteia în scenă. Textura va arăta la fel indiferent de unghiul
 din care este privită sau de prezența surselor de lumină, ceea ce poate duce la o scenă cu aspect mai plat și 
