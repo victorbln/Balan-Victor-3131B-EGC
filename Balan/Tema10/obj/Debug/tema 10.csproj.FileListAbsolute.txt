@@ -1,0 +1,19 @@
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\Bearded.Utilities.dll
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\Bearded.Utilities.xml
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.pdb
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\tema 10.csproj.AssemblyReference.cache
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\tema 10.csproj.GenerateResource.cache
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\tema 10.csproj.CoreCompileInputs.cache
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\tema 10.csproj.CopyComplete
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\Tema_10.Properties.Resources.resources
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\Tema_10.exe.config
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\Tema_10.exe
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\Tema_10.pdb
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\Tema_10.exe
+C:\Users\Victor-Balan\Downloads\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\Tema_10.pdb

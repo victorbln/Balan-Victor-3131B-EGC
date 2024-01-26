@@ -1,0 +1,14 @@
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\Laborator3.exe.config
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\Laborator3.exe
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\Laborator3.pdb
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\OpenTK.dll
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\OpenTK.pdb
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\OpenTK.xml
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\obj\Debug\Laborator3.csproj.AssemblyReference.cache
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\obj\Debug\Laborator3.csproj.CoreCompileInputs.cache
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\obj\Debug\Laborator3.csproj.CopyComplete
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\obj\Debug\Laborator3.exe
+C:\Users\Victor-Balan\Desktop\Balan-Victor-3131B-EGC\Balan\Laborator3\obj\Debug\Laborator3.pdb
